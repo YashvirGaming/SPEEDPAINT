@@ -8,6 +8,9 @@
 
 <p>A premium multithreaded <b>CLI checker</b> for <b>SpeedPaint</b> built with love ♥ by <a href="https://github.com/YashvirGaming">YashvirGaming</a>.</p>
 
+<img width="1010" height="548" alt="image" src="https://github.com/user-attachments/assets/60983b6e-15cd-49b6-962a-98d30ace24dd" />
+
+
 <h2>✨ Features</h2>
 <ul>
   <li>🔥 ANSI Shadow Banner & Multicolor Subtitle</li>
